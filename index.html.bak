@@ -46,7 +46,7 @@
                 <!-- ========= CUSTOMISE SECTION =========== -->
                 <!-- You can change 'Cloud Computing Predict' to 'Your Name' -->
                 <!-- The Masthead will then read: '{Your Name} - Project Portfolio' -->
-                <h1 class="masthead-heading text-uppercase mb-0">Cloud Computing Predict - Project Portfolio - Michelle Bosch</h1>
+                <h1 class="masthead-heading text-uppercase mb-0">Cloud Computing Predict - Project Portfolio</h1>
                 <!-- ======================================= -->
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
@@ -57,10 +57,7 @@
                 <!-- Masthead Subheading-->
                 <!-- ========= CUSTOMISE SECTION =========== -->
                 <!-- Change this to a list of three or four of your most relevant skills-->
-                <p class="masthead-subheading font-weight-light mb-0">Machine Learning - unsupervised-predict-streamlit-template</p>
-                <p class="masthead-subheading font-weight-light mb-0">Machine Learning - Kaggle-Climate-Change</p>
-                <p class="masthead-subheading font-weight-light mb-0">Machine Learning - Cloud-Computing</p>
-                <p class="masthead-subheading font-weight-light mb-0">Machine Learning - MichelleTest</p>
+                <p class="masthead-subheading font-weight-light mb-0">Machine Learning - Time Series - Dashboarding</p>
                 <!-- ======================================= -->
             </div>
         </header>
@@ -85,7 +82,7 @@
                             </div>
                             <!-- ========= CUSTOMISE SECTION =========== -->
                             <!-- Replace the link in the `src` string below to depict an image related to a project of yours -->
-                            <img class="img-fluid" src="assets/img/portfolio/Unsupervised.jpg" alt="" />
+                            <img class="img-fluid" src="assets/img/portfolio/christopher-robin-ebbinghaus-pgSkeh0yl8o-unsplash.jpg" alt="" />
                             <!-- ======================================= -->
                         </div>
                     </div>
@@ -97,7 +94,7 @@
                             </div>
                             <!-- ========= CUSTOMISE SECTION =========== -->
                             <!-- Replace the link in the `src` string below to depict an image related to a project of yours -->
-                            <img class="img-fluid" src="assets/img/portfolio/KaggleClimateChange.jpg" alt="" />
+                            <img class="img-fluid" src="assets/img/portfolio/thisisengineering-raeng-hoivM01c-vg-unsplash.jpg" alt="" />
                             <!-- ======================================= -->
                         </div>
                     </div>
@@ -109,7 +106,7 @@
                             </div>
                             <!-- ========= CUSTOMISE SECTION =========== -->
                             <!-- Replace the link in the `src` string below to depict an image related to a project of yours -->
-                            <img class="img-fluid" src="assets/img/portfolio/Cloud.jpg" alt="" />
+                            <img class="img-fluid" src="assets/img/portfolio/gertruda-valaseviciute-xMObPS6V_gY-unsplash.jpg" alt="" />
                             <!-- ======================================= -->
                         </div>
                     </div>
@@ -121,10 +118,34 @@
                             </div>
                             <!-- ========= CUSTOMISE SECTION =========== -->
                             <!-- Replace the link in the `src` string below to depict an image related to a project of yours -->
-                            <img class="img-fluid" src="assets/img/portfolio/MichelleTest.jpg" alt="" />
+                            <img class="img-fluid" src="assets/img/portfolio/michael-dziedzic-aQYgUYwnCsM-unsplash.jpg" alt="" />
                             <!-- ======================================= -->
                         </div>
-                   </div>
+                    </div>
+                    <!-- Portfolio Item 5-->
+                    <div class="col-md-6 col-lg-4 mb-5 mb-md-0">
+                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal5">
+                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
+                            </div>
+                            <!-- ========= CUSTOMISE SECTION =========== -->
+                            <!-- Replace the link in the `src` string below to depict an image related to a project of yours -->
+                            <img class="img-fluid" src="assets/img/portfolio/steve-johnson-5MTf9XyVVgM-unsplash.jpg" alt="" />
+                            <!-- ======================================= -->
+                        </div>
+                    </div>
+                    <!-- Portfolio Item 6-->
+                    <div class="col-md-6 col-lg-4">
+                        <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal6">
+                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
+                            </div>
+                            <!-- ========= CUSTOMISE SECTION =========== -->
+                            <!-- Replace the link in the `src` string below to depict an image related to a project of yours -->
+                            <img class="img-fluid" src="assets/img/portfolio/chris-ried-ieic5Tq8YMk-unsplash.jpg" alt="" />
+                            <!-- ======================================= -->
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
@@ -143,13 +164,13 @@
                 <div class="row">
                     <!-- ========= CUSTOMISE SECTION =========== -->
                     <!-- You can replace the About Section content below to better fit the feel of your portfolio website -->
-                    <div class="col-lg-4 ml-auto"><p class="lead">Data Science Student in 2020 at Explore</p></div>
-                    <div class="col-lg-4 mr-auto"><p class="lead">Dana Enginerring Student in 2021 at Explore</p></div>
+                    <div class="col-lg-4 ml-auto"><p class="lead">EXPLORE is a next generation learning institution that teaches students the skills of the future. From Data Science to Data Engineering, from Machine Learning to Deep Learning we deliver cutting edge courses to satisfy your hunger to learn.</p></div>
+                    <div class="col-lg-4 mr-auto"><p class="lead">Our philosophy is to teach our students how to solve problems in the real world. We emphasise teamwork, collaboration and working within constraints, under deadlines … while understanding context, audience and implementation challenges.</p></div>
                     <!-- ======================================= -->
                 </div>
                 <!-- About Section Button-->
                 <div class="text-center mt-4">
-                    <a class="btn btn-xl btn-outline-light" href="https://github.com/michelleb123za">
+                    <a class="btn btn-xl btn-outline-light" href="https://github.com/Explore-AI">
                         <i class="fas fa-download mr-2"></i>
                         Link to My GitHub Repo :D
                     </a>
@@ -219,7 +240,7 @@
                     <div class="col-lg-4 mb-5 mb-lg-0">
                         <h4 class="text-uppercase mb-4">Location</h4>
                         <p class="lead mb-0">
-                            Cell C Waterfall Campus
+                            12th Floor, Rennie House, 19 Ameshoff St
                             <br />
                             Johannesburg, 2001
                         </p>
@@ -273,7 +294,7 @@
                                 <div class="col-lg-8">
                                     <!-- Portfolio Piece - Title-->
                                     <!-- Modify the title of the first portfolio project here -->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal1Label">Unsupervised Project</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal1Label">Credit Fraud Detector</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -285,7 +306,7 @@
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/ales-nesetril-ex_p4AaBxbs-unsplash.jpg" alt="" />
                                     <!-- Portfolio Piece - Text-->
                                     <!-- Modify the description of the first portfolio project here-->
-                                    <p class="mb-5">Data Science 2020 Project</p>
+                                    <p class="mb-5">Built a credit card fraud detection system for one of South Africas big four banks</p>
                                     <button class="btn btn-primary" data-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Close Window
@@ -314,7 +335,7 @@
                                 <div class="col-lg-8">
                                     <!-- Portfolio Piece - Title-->
                                     <!-- Modify the title of the second portfolio project here -->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal2Label">Kaggle Climate Change</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal2Label">Rock Formation Classifier</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -326,7 +347,7 @@
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/sebastian-pichler-oqFHLfLFtmc-unsplash.jpg" alt="" />
                                     <!-- Portfolio Piece - Text-->
                                     <!-- Modify the description of the second portfolio project here-->
-                                    <p class="mb-5">Kaggle Climate Change Competition</p>
+                                    <p class="mb-5">Designed and built a PoC rock formation density classifier to aid engineers in the preliminary building design phase</p>
                                     <button class="btn btn-primary" data-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Close Window
@@ -355,7 +376,7 @@
                                 <div class="col-lg-8">
                                     <!-- Portfolio Piece - Title-->
                                     <!-- Modify the title of the third portfolio project here -->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal3Label">Cloud Computing Project</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal3Label">Search for Dark Matter Hints with Machine Learning</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -367,7 +388,7 @@
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/halgatewood-com-OgvqXGL7XO4-unsplash.jpg" alt="" />
                                     <!-- Portfolio Piece - Text-->
                                     <!-- Modify the description of the third portfolio project here-->
-                                    <p class="mb-5">Data Engineering 2021</p>
+                                    <p class="mb-5">This project covers several cases of detector design optimization in high energy physics experiments using Bayesian optimization with Gaussian processes</p>
                                     <button class="btn btn-primary" data-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Close Window
@@ -396,7 +417,7 @@
                                 <div class="col-lg-8">
                                     <!-- Portfolio Piece - Title-->
                                     <!-- Modify the title of the fourth portfolio project here -->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal4Label">Michelle's Test</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal4Label">Self Driving Car with Rasperry PI and Deep Learning</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -408,7 +429,7 @@
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/tr-n-toan-RdV3_mu0EQU-unsplash.jpg" alt="" />
                                     <!-- Portfolio Piece - Text-->
                                     <!-- Modify the description of the fourth portfolio project here-->
-                                    <p class="mb-5">Test</p>
+                                    <p class="mb-5">Created a light weight deep learning model able to be deployed on a Raspberry PI for use in a toy self-driving car</p>
                                     <button class="btn btn-primary" data-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Close Window
@@ -422,6 +443,88 @@
         </div>
         <!-- ======================================= -->
         
+        <!-- Portfolio Piece 5-->
+        <!-- ========= CUSTOMISE SECTION =========== -->
+        <!-- Modify the title, image, and text of the fifth portfolio project within this section-->
+        <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-labelledby="portfolioModal5Label" aria-hidden="true">
+            <div class="modal-dialog modal-xl" role="document">
+                <div class="modal-content">
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Piece - Title-->
+                                    <!-- Modify the title of the fifth portfolio project here -->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal5Label">Art Price Prediction App</h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Piece - Image-->
+                                    <!-- Modify the image of the fifth portfolio project here -->
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/klaudia-piaskowska-g55bG1O5Lf0-unsplash.jpg" alt="" />
+                                    <!-- Portfolio Piece - Text-->
+                                    <!-- Modify the description of the fifth portfolio project here-->
+                                    <p class="mb-5">Given the location of the auction, the artist, the image of the art piece, historical prices and various other features, this model will give an estimation of the auction price for that particular art piece. </p>
+                                    <button class="btn btn-primary" data-dismiss="modal">
+                                        <i class="fas fa-times fa-fw"></i>
+                                        Close Window
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ======================================= -->
+
+        <!-- Portfolio Piece 6-->
+        <!-- ========= CUSTOMISE SECTION =========== -->
+        <!-- Modify the title, image, and text of the sixth portfolio project within this section-->
+        <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-labelledby="portfolioModal6Label" aria-hidden="true">
+            <div class="modal-dialog modal-xl" role="document">
+                <div class="modal-content">
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true"><i class="fas fa-times"></i></span>
+                    </button>
+                    <div class="modal-body text-center">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Piece - Title-->
+                                    <!-- Modify the title of the sixth portfolio project here -->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal6Label">Hospital Efficiency Monitor</h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Piece - Image-->
+                                    <!-- Modify the image of the sixth portfolio project here -->
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/daan-stevens-yGUuMIqjIrU-unsplash.jpg" alt="" />
+                                    <!-- Portfolio Piece - Text-->
+                                    <!-- Modify the description of the sixth portfolio project here-->
+                                    <p class="mb-5">This piece of software takes in various financial, operational, strategic and process metrics and returns an estimate of the hospitals efficiency. This model also flags anomalous events and tries to forecast if performance will degrade over time and what the preventative measures might be to reduce/ nullify performance degradation.</p>
+                                    <button class="btn btn-primary" data-dismiss="modal">
+                                        <i class="fas fa-times fa-fw"></i>
+                                        Close Window
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ======================================= -->
+
         <!-- Bootstrap core JS-->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"></script>
