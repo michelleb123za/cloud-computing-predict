@@ -97,7 +97,7 @@
                             </div>
                             <!-- ========= CUSTOMISE SECTION =========== -->
                             <!-- Replace the link in the `src` string below to depict an image related to a project of yours -->
-                            <img class="img-fluid" src="assets/img/portfolio/thisisengineering-raeng-hoivM01c-vg-unsplash.jpg" alt="" />
+                            <img class="img-fluid" src="assets/img/portfolio/ClimateChange.JPG" alt="" />
                             <!-- ======================================= -->
                         </div>
                     </div>
@@ -323,7 +323,7 @@
                                     </div>
                                     <!-- Portfolio Piece - Image-->
                                     <!-- Modify the image of the second portfolio project here-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/sebastian-pichler-oqFHLfLFtmc-unsplash.jpg" alt="" />
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/ClimateChange.JPG" alt="" />
                                     <!-- Portfolio Piece - Text-->
                                     <!-- Modify the description of the second portfolio project here-->
                                     <p class="mb-5">Kaggle Climate Change Competition</p>
